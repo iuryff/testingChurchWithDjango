@@ -1,4 +1,5 @@
 # testingChurchWithDjango
-Site de testes da ferramenta Django
-Teste de pull
+## Site de testes da ferramenta Django
+Desenvolvido para Aprendizado em Django
+
 
